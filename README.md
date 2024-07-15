@@ -17,11 +17,11 @@ This repository is designed to help you get hands-on experience with AI algorith
 ## Requirements 🛠️
 To run the code in this repository, you will need the following libraries:
 
-Python 3.10
-NumPy
-Matplotlib
-scikit-learn
-pandas
+- Python 3.10
+- NumPy
+- Matplotlib
+- scikit-learn
+- pandas
 
 ## Installation 💻
 
