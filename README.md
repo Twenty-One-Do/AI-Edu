@@ -27,14 +27,14 @@ To run the code in this repository, you will need the following libraries:
 
 1. Clone the repository:
 
-``git clone https://github.com/Twenty-One-Do/AI-Edu.git``
-``cd AI-Edu``
+- ``git clone https://github.com/Twenty-One-Do/AI-Edu.git``
+- ``cd AI-Edu``
 
 2. Create a virtual environment and activate it:
 
-``python3.10 -m venv venv``
-``source venv/bin/activate``
+- ``python3.10 -m venv venv``
+- ``source venv/bin/activate``
 
 3. Install the required libraries:
 
-``pip install numpy matplotlib scikit-learn pandas``
+- ``pip install numpy matplotlib scikit-learn pandas``
