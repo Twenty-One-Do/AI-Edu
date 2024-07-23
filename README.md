@@ -18,10 +18,10 @@ This repository is designed to help you get hands-on experience with AI algorith
 To run the code in this repository, you will need the following libraries:
 
 - Python 3.10
-- NumPy
-- Matplotlib
-- scikit-learn
-- pandas
+- NumPy 1.26.4
+- Matplotlib 3.8.0
+- scikit-learn 1.2.2
+- pandas 2.1.4
 
 ## Installation 💻
 
@@ -37,4 +37,4 @@ To run the code in this repository, you will need the following libraries:
 
 3. Install the required libraries:
 
-- ``pip install numpy matplotlib scikit-learn pandas``
+- ``pip install numpy==1.26.4 matplotlib==3.8.0 scikit-learn==1.2.2 pandas==2.1.4``
