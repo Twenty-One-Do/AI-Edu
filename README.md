@@ -1,6 +1,12 @@
 ## AI Learning Practice Repository 📚🤖
 Welcome to the AI Learning Practice Repository! This repository contains various practice codes for learning and experimenting with Artificial Intelligence concepts and techniques.
 
+## Preview 👓
+
+![regression](https://github.com/user-attachments/assets/6dcae6b0-49b1-4c67-bb30-8ad16e3ffdef)
+![MLP1](https://github.com/user-attachments/assets/6b713542-e43e-4f2b-8105-7435af3b1060)
+![MLP2](https://github.com/user-attachments/assets/9d403580-f1ce-4f4d-b5ff-b3256f266b97)
+
 ## Table of Contents 📑
 1. Regression & Perceptron
 2. DNN
