@@ -8,7 +8,7 @@ X = 4 * np.random.rand(100, 1)-2
 y = 4 + 3 * X + 2 * X**2 + np.random.randn(100, 1)
 
 # 파라미터 초기화
-learning_rate = 0.05
+learning_rate = 0.2
 epochs = 100
 theta_start = np.random.randn(3, 1)  # 초기 theta 값
 speed = 10  # 1~10

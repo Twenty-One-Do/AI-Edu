@@ -16,7 +16,7 @@ learning_rate = 0.1
 epochs = 100
 x_start = 5
 x_definition = (-5,5)
-speed = 5 # 1~10
+speed = 10 # 1~10
 #↑↑↑↑↑↑↑↑↑↑↑↑값을 바꿔보세요!↑↑↑↑↑↑↑↑↑↑↑↑
 
 x = x_start
